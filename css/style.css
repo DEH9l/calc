@@ -1,0 +1,36 @@
+body {
+  margin: auto; }
+
+.calculator {
+  width: 320px;
+  margin: auto;
+  border: black 2px ridge;
+  box-sizing: border-box; }
+  .calculator input {
+    display: block;
+    background-color: aqua;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 50px;
+    text-align: right; }
+  .calculator table {
+    width: 100%; }
+    .calculator table tr td {
+      font-size: 40px;
+      text-align: center;
+      background-color: orange;
+      padding: 10px 0;
+      border-radius: 40px;
+      font-weight: bold;
+      vertical-align: center; }
+  .calculator a {
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+    background-color: orange;
+    display: inline-block;
+    padding: 10px 0;
+    border-radius: 40px;
+    font-weight: bold; }
+
+/*# sourceMappingURL=style.css.map */
